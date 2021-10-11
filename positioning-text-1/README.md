@@ -140,7 +140,9 @@ Lets start by drawing another line on line 6.  You can just repeat the previous 
 
 ##### `Step 15.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. We should see a second yellow line.
+
+![Run game with two yellow lines](images/secondLineInGame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
