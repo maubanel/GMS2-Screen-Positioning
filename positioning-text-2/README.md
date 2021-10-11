@@ -46,7 +46,11 @@ Now lets create an object for the circle. *Right click* on *Object* and select *
 
 ##### `Step 5.`\|`MTP`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Please note a consistency here.  We are naming all objects with prefix obj_ and all sprites spr_.  This is because we can't have two files with the same name.  We might have various different types of assets with the name circle (for example). This allows us to share a name but not have a problem with collision on two game items with the exact same name.  It also makes it easier to figure out which sprite goes with which objects.  In a small object like this it is simple, but if we had 200 sprites and objects this would be harder to tell without following a consistent naming convention.
+
+*Double left click* **rm_position_objects]** and drag the triangle, circle and square into the room around where you think line 25 lies by eye.
+
+![Drag three newly created game objects into room and guess location under previous text](images/dragThreeShapesInRoom.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
