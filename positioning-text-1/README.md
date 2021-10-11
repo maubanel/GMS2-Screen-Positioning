@@ -148,7 +148,9 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. W
 
 ##### `Step 16.`\|`MTP`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+We want to create a new **sprite**. *Right click* the right mouse button on the **Sprite** title in the **Resources** tab and select **Create Sprite**. Change the name to `spr_triangle`. 
+
+![Add a triangle sprit](images/CreateTriangleSprite.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
