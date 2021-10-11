@@ -61,7 +61,9 @@ Open the room **rm_position_objects**. We do not use hard coded numbers for the 
 
 ##### `Step 6.`\|`MTP`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Right click on **Objects** and select **Create | Object** called `obj_position_objects`. Add a **Draw | Draw** event to draw to screen.
+
+![add object obj_position_objects and add a draw event](images/positionObjectsObject.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
