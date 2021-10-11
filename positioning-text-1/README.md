@@ -147,6 +147,6 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../)| [home](../README.md#user-content-<sub>[previous](../) • [home](../README.md#user-content-gms2-more-text-positioning) • [next](../)</sub>
-) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-gms2-more-text-positioning) | [next](../)|
 |---|---|---|
+
