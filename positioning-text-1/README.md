@@ -53,7 +53,9 @@ Create a new room called `rm_position_objects` and place it at the top of the **
 
 ##### `Step 5.`\|`MTP`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Open the room rm_position_objects. We do not use hard coded numbers for the room height and width.  That way we can change the size of the room and our game will still work.  If you go to the room you will see the **Width** and **Height** and these are the same values stored in room_width and room_height.
+
+![alt_text](images/ScreenPos.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
