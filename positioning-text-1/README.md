@@ -2,7 +2,7 @@
 
 ### Screen Positioning I
 
-<sub>[home](../README.md#user-content-gms2-screen-positioning) • [next](../)</sub>
+<sub>[home](../README.md#user-content-gms2-screen-positioning-i) • [next](../)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
