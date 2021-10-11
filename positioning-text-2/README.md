@@ -137,7 +137,9 @@ The game bases everything on the object's origin.  This is a single point relati
 
 ##### `Step 15.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+The good news is that we can change the origin. Open **spr_triangle** and press the <kbd>Edit</kbd> button. *Click* on the drop down menu that says **Top Left**.  Select `Middle Center` instead.  Look at the target reticule update automatically:
+
+![set obj_triangle sprite origin to middle center](images/CenterOriginTriangle.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
