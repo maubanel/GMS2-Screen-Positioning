@@ -1,4 +1,4 @@
-# GMS2 More Text Positioning
+# GMS2 Screen Positioning
 
 
 <!-- OVERVIEW -->
@@ -12,13 +12,11 @@ Lets look at more issues positining objects in a gamemaker scene.
 * An existing [GML Project](https://github.com/maubanel/GMS2-Snippets/blob/main/rename-project/README.md#user-content-rename-gms2-project)
 
 <br>
-  
-* Tested on GameMake Studio2.3.5.589
-* An existing [GML Project](https://github.com/maubanel/GMS2-Snippets/blob/main/rename-project/README.md#user-content-rename-gms2-project)
+
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [More Text Positioning 1](positioning-text-1/README.md#user-content-more-text-positioning-1) <br>
+<kbd></kbd> &nbsp;&nbsp; [Screen Positioning 1](positioning-text-1/README.md#user-content-screen-positioning-1) <br>
 
 
 
