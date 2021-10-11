@@ -121,13 +121,17 @@ In scripting we are adjusting two variables that come with every object.  All ob
 
 ##### `Step 13.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now we should see the triangle in the correct position on the x-axis but it is below the line as opposed to being centered on it.
+
+![Run game and triangle is below the line and not center on it](images/triangleTooLow.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 14.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+The game bases everything on the object's origin.  This is a single point relative to the object (it can be anywhere relative to the object, even outside of the sprite itself).  The default position if you do not make any changes is the top left corner of the sprite.  The world position of the sprite is it's location in the room `(0, 6 * line_height)` but it's local origin position is `(0, 0)` with the anchor point at the top left corner.
+
+![Illustration of sprite origin](images/originTriangle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
