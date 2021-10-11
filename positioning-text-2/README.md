@@ -66,13 +66,15 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. W
 
 *Double left click* **obj_triangle** and we need to add a variable to this object.  *Press* the **Variable Definition** button on the game object. 
 
-![alt_text](images/.png)
+![Press variable definition button on obj_triangle](images/AddVariableToObjTriangle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`MTP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Press the <kbd>Add</kbd> button and call the variable `line_height` and set the **Default** value to `22`.  Make sure the **Type** is a `Integer`.
+
+![add line_height variable set to 22 to obj_triangle](images/AddLineHeightTriangle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
