@@ -104,6 +104,8 @@ For positioning the objects in the room we will use the create event.  We only n
 
 ##### `Step 11.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: 
 
+Now we want the obj_triangle to be on the twenty fifth line (25 * line_height or 25 * 22).  On the x-axis we want it on the left hand side of the screen.  Remember 0,0 is the top left corner so we want to be 0 on the x-axis:
+
 ![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
@@ -111,7 +113,9 @@ For positioning the objects in the room we will use the create event.  We only n
 
 ##### `Step 12.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+In scripting we are adjusting two variables that come with every object.  All objects have a built in **X** and **Y** variable that represent their 2-d position in the room.
+
+![First attempt at positioning triangle in code](images/CreateLineHeightTriangle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
