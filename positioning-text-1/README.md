@@ -166,7 +166,7 @@ Look at the the sprite tab and see the size of the sprite.  It defaults to `64` 
 
 We want the triangle to be *red*.   *Press* the left mouse button on the red color in the palette to pick the fill color that we want.  *Select* the lower right half of the **Polygon Tool**.  The top left is the stroke and the bottom right is the fill.  We just need to set a fill color for this sprite.
 
-![alt_text](images/.png)
+![Draw red triangle](images/RedTrianglePrep.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
