@@ -94,7 +94,11 @@ The **[Step Event](https://manual.yoyogames.com/The_Asset_Editors/Object_Propert
 
 ##### `Step 10.`\|`MTP`| :large_blue_diamond:
 
-![alt_text](images/.png)
+For positioning the objects in the room we will use the create event.  We only need to do this once and there is only a single instance of each object (don't need to do it in the room).  
+	
+*Double click* on **obj_triangle** and press the <kbd>Events</kbd> button then press the <kbd>AddEvent button</kbd> .  In the menu select `Create` event. *Scroll* over to the scripting window that flew out. 
+
+![add Create Event to obj_triangle](images/TriangleCreateEvent.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
