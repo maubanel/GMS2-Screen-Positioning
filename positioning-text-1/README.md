@@ -69,7 +69,9 @@ Right click on **Objects** and select **Create | Object** called `obj_position_o
 
 ##### `Step 7.`\|`MTP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Press the <kbd>Variable Parameters</kbd> button and then press the <kbd>Add</kbd> button.  **Name** the variable `line_height` and set the default to `22`.  Change the **Type** to `integer`.
+
+![add a variable called line_height of type integer set to 22](images/AddLineHeight.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
