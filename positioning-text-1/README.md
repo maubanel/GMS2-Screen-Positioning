@@ -156,7 +156,9 @@ We want to create a new **sprite**. *Right click* the right mouse button on the 
 
 ##### `Step 17.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Look at the the sprite tab and see the size of the sprite.  It defaults to `64` by `64` pixels which we will keep.  Please note that this size is a mutliple of 8, something that is very common when selecting sprite sizes.  Once you have seen this screen press the Edit Sprite button to create the actual artwork.
+
+![Edit triangle sprite](images/DefaultSpriteSize.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
