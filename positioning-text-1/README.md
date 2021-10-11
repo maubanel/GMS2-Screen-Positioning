@@ -97,7 +97,11 @@ Add a **obj_position_objects** to **rm_position_objects**.  Now *press* the <kbd
 
 ##### `Step 10.`\|`MTP`| :large_blue_diamond:
 
-![alt_text](images/.png)
+So if we want to draw a line underneath, then we can figure out 2 steps of 22 pixels down on the y-axis.  This gets us to `44` pixels down on the y axis. The x-axis would go from `0` to `room_width -1` to draw a line right across the screen.
+
+Why `room_width - 1`? This is because the first pixel on the left is accessed with unit `0` so a the last pixel is the width of the room minus one pixel (as 0 is one). 
+
+![alt_text](images/lineTitlePlacement.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
