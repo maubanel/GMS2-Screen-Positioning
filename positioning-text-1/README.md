@@ -47,7 +47,7 @@ To position points we move along the **X** & **Y** axis.  So for position *(2, -
 
 Create a new room called `rm_position_objects` and place it at the top of the **Room Order** list.
 
-![alt_text](images/positionObjectsRoom.gif)
+![add room called rm_position_objects and place at top of room order](images/positionObjectsRoom.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
