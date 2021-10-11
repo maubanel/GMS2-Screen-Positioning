@@ -31,7 +31,7 @@ The intersection of the two axis is point (0,0).  The X axis is positive towards
 
 To position points we move along the **X** & **Y** axis.  So for position *(2, -2)* we go two positions to the right on the x axis (away from (0,0)) and two positions down on the y axis.  For point *(-2, 4)* we go two to the left on the x axis and four upwards in y.  So they end up here.
 
-![Putting two points in cartesian coordinate system](images/TwoPointsOnCartesianPlane.png)
+![Putting two points in cartesian coordinate system](images/TwoPointsOnCartesianPlane.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
