@@ -17,6 +17,7 @@ Lets look at more issues positining objects in a gamemaker scene.
 <!-- TOC -->
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Screen Positioning I](positioning-text-1/README.md#user-content-screen-positioning-i) <br>
+<kbd></kbd> &nbsp;&nbsp; [Screen Positioning II](positioning-text-2/README.md#user-content-screen-positioning-ii) <br>
 
 
 
