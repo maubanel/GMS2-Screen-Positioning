@@ -132,7 +132,9 @@ Lets look at placing 2-D sprites, something more game-y, into this two dimension
 
 ##### `Step 14.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Lets start by drawing another line on line 6.  You can just repeat the previous line draw but change it slightly.  Type in another line draw like so:
+
+![Add a second line to frame new objects"](images/drawSecondLine.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
