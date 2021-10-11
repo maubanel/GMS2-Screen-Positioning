@@ -148,7 +148,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. W
 
 ##### `Step 16.`\|`MTP`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-We want to create a new **sprite**. *Right click* the right mouse button on the **Create | Sprite** title in the **Resources** tab and select **Create Sprite**. Change the name to `spr_triangle`. 
+We want to create a new **sprite**. *Right click* the right mouse button on the **Sprites** title in the **Asset Browser** tab and select **Create | Sprite**. Change the name to `spr_triangle`. 
 
 ![Add a triangle sprit](images/CreateTriangleSprite.gif)
 
@@ -163,6 +163,8 @@ Look at the the sprite tab and see the size of the sprite.  It defaults to `64` 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+We want the triangle to be *red*.   *Press* the left mouse button on the red color in the palette to pick the fill color that we want.  *Select* the lower right half of the **Polygon Tool**.  The top left is the stroke and the bottom right is the fill.  We just need to set a fill color for this sprite.
 
 ![alt_text](images/.png)
 
