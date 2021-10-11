@@ -24,7 +24,7 @@ Repeat this one last time for a sprite called `spr_circle`.  Press **Edit Sprite
 
 We can't place a sprite in the room we have to bind it to an game object. *Right click* on Object and select **Create Object**.  Call this object `obj_triangle`.  Press the button that says <kbd>No Sprite</kbd> and pick the `spr_triangle` **sprite** from the drop down menu.
 
-![alt_text](images/.png)
+![Create obj_triangle game object and assign spr_triangle](images/ObjTriangle.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
