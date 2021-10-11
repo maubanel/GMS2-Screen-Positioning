@@ -12,10 +12,11 @@ Lets take a closer look at how we position text, objects and other items on scre
 
 ---
 
-
 ##### `Step 1.`\|`MTP`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Repeat this one last time for a sprite called `spr_circle`.  Press **Edit Sprite** and select the *green* color and the bottom right of the **Draw Circle** tool and draw a nice green circle.  Make sure it fills the entire 64 b6 64 frame and is symmetrial in all four corners.
+
+![Create a green circle sprite](images/CreateCircleSprite.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
