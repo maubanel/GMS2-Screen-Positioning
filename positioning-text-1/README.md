@@ -89,7 +89,7 @@ Now add to the **Draw** script:
 
 ##### `Step 9.`\|`MTP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Add a **obj_object_positions** to **rm_object_positions**.  Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. See the title in the center of the screen.
+Add a **obj_position_objects** to **rm_position_objects**.  Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. See the title in the center of the screen.
 
 ![add obj_object_positions to room and run game](images/AddToRoomRun.gif)
 
