@@ -172,7 +172,7 @@ We want the triangle to be *red*.   *Press* the left mouse button on the red col
 
 ##### `Step 19.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We want to draw all of our sprites to be facing to the right hand side of the screen.  The starting rotation for all sprites is right facing (positive along the x-axis).  Start to draw it by pressing top left corner, middle right corner, bottom left corner then left center about 20 pixels in to give it a tail.
+We want to draw all of our sprites to be facing to the right hand side of the screen.  The starting rotation for all sprites is right facing (positive along the x-axis).  Start to draw it by pressing top left corner, middle right corner, bottom left corner then left center about 20 pixels in to give it a tail, to know we are pointing right.
 
 ![GIF of drawing triangle](images/DrawTrianglePolygon.gif)
 
@@ -180,7 +180,9 @@ We want to draw all of our sprites to be facing to the right hand side of the sc
 
 ##### `Step 20.`\|`MTP`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+The triangle sprite should look like this:
+
+![Finished red triangle facing right](images/RedTirangleDrawn.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
