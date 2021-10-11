@@ -40,7 +40,7 @@ Now lets create an object for the square. *Right click* on **Object** and select
 
 Now lets create an object for the circle. *Right click* on *Object* and select **Create | Object**.  Call this object `obj_circle`.  *Press* the button that says <kbd>No Sprite</kbd> and pick the `spr_circle` sprite from the drop down menu.
 
-![alt_text](images/.png)
+![Create obj_circle game object](images/ObjCircle.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
