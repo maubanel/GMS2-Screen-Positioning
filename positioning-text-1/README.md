@@ -15,6 +15,17 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`MTP`|:small_blue_diamond:
 
+So why does `draw_text(room_width * .5, line_height, "Message");` draw to the screen in the location that it does?  What is `x` and what is `y`?  What does `room_width` represent?
+
+<p>
+	Lets look at this is some detail.  We are positioning objects on the screen using the <a href ="https://en.wikipedia.org/wiki/Cartesian_coordinate_system" target="blank">cartesian coordinate system</a>.
+
+<p>
+	You have most likely seen this in school, it is a two axis representation of an two dimensional area with an x-axis that runs East/West and a y-axis that runs North/South. 
+	
+<p>
+	The intersection of the two axis is point (0,0).  The X axis is positive towards the right and the Y axis is positive upwards.
+
 ![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
