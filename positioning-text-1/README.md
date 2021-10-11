@@ -1,6 +1,6 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Add Title
+### More Text Positioning 1
 
 <sub>[previous](../) • [home](../README.md#user-content-gms2-more-text-positioning) • [next](../)</sub>
 
@@ -147,5 +147,6 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../)| [home](../README.md#user-content-gms2-more-text-positioning) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-<sub>[previous](../) • [home](../README.md#user-content-gms2-more-text-positioning) • [next](../)</sub>
+) | [next](../)|
 |---|---|---|
