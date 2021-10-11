@@ -56,7 +56,9 @@ Please note a consistency here.  We are naming all objects with prefix obj_ and 
 
 ##### `Step 6.`\|`MTP`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. We should see the three shapes and through trial and error want them to be on the center of the line.
+
+![Run the game and position three objects until they are on the line](images/ThreeShapesAlongLine.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
