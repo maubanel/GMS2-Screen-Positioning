@@ -80,7 +80,15 @@ Press the <kbd>Add</kbd> button and call the variable `line_height` and set the 
 
 ##### `Step 9.`\|`MTP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+GameMaker uses an **[event system](https://manual.yoyogames.com/The_Asset_Editors/Object_Properties/Object_Events.htm)** to run its scripts. We have already used the **Draw** event to draw the text and lines in this room.  The draw event runs every frame.
+
+We will take a look at two more event types: **Create Events** & **Step Events**
+
+The **[Create Event](https://manual.yoyogames.com/The_Asset_Editors/Object_Properties/Object_Events.htm)** runs only one time when the object is instantiated (when it appears in the room). This could be at the game start if the object is placed in the Room; or it could be run once when it is instantiated through code. This is the perfect time to set up the inital value for a variable. Please note that this will be shared amongst all instances, if you want a separate value for a specific instance use the editor in the room to adjust the variable value.  The room settings run after the Create Event and will override what is placed there.
+
+The **[Step Event](https://manual.yoyogames.com/The_Asset_Editors/Object_Properties/Object_Events.htm)** is the main game loop. It runs every frame when the game is running. The code attached to this event runs every tick. Typically we instantiate variables in the Create event and run ai and gameplay in the step event. The step event (like the draw event) runs every frame so be careful to use it for something that needs to be updated 30+ times a second. 
+
+![Create and step events illustration](images/CreateStepEvents.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
