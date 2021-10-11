@@ -124,7 +124,9 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. W
 
 ##### `Step 13.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Lets look at placing 2-D sprites, something more game-y, into this two dimensional room.  We will put a red triangle, blue square and green circle on line 25 from the far left, center and right respectively.  We want it to look like: 
+
+![Concept art for 3 new objects we will add](images/ConceptArtForPlacement.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
