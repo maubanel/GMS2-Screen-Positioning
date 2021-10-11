@@ -107,14 +107,18 @@ Why `room_width - 1`? This is because the first pixel on the left is accessed wi
 
 ##### `Step 11.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Let's use **[draw_line(x1, y1, x2, y2)](https://manual.yoyogames.com/#t=GameMaker_Language%2FGML_Reference%2FDrawing%2FBasic_Forms%2Fdraw_line.htm)**. `(x1, y1)` is the start of the line, and `(x2, y2)` is the end of the line. We are also going to use **[draw_set_color(color)](https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Drawing/Colour_And_Alpha/draw_set_colour.htm)**.  We will pass as an argument to this function the *enumerator* `c_yellow`.  We will reset the color back to white after drawing the line.  Type the following to the bottom of the **obj_data_types_controller Draw Event**.
+
+![Adds line under title](images/drawLine.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. We should see a yellow line under the text.
+
+![line uynder title in game](images/lineUnderTitle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
