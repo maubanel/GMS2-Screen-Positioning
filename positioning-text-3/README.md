@@ -68,7 +68,9 @@ We will start by rotating counter-clockwise.  We will add 5 degrees every frame.
 
 ##### `Step 7.`\|`MTP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Notice that the axis the sprite rotates around is its origin.  This is at the top left corner.  
+
+![Square sprite in game rotating around it top left corner where the origin is located](images/RotatingCube1.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
