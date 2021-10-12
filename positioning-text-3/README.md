@@ -194,11 +194,14 @@ Now you can finish this room off yourself by rotating the circle in a new step e
 
 ![All three objects rotating](images/Final3ShapesAnimating.gif)
 
+___
+
+
 | `gms2.screen.positioning`\|`THE END`| 
 | :--- |
 | **That's All Folks!** That's it for screen positioning. |
 
-___
+
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
