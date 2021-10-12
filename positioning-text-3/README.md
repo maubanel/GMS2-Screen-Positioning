@@ -176,7 +176,7 @@ RuNow *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
 
 Go back to **obj_circle** and adjust its **Create** script by subtracting `sprite_width * .5` (same as dividing `sprite_get_width(spr_circle)` by two).  Notice that we put it in parenthesis.  We do not need to do this is because it will do the multiplication BEFORE the subtraction but we are doing it to be clear on what we intend to do.
 
-![alt_text](images/.png)
+![subtract half of the sprite_width for x position of obj_circle](images/SubtractHalfSprite.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
