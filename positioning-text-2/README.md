@@ -145,13 +145,18 @@ The good news is that we can change the origin. Open **spr_triangle** and press 
 
 ##### `Step 16.`\|`MTP`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now the vertical positioning is better but half the ship is off the screen to the left.  It placed the origin of the sprite at 0 on the x-axis.
+
+
+![Run game and triangle correctly centered based on new origin but off by half a sprite width](images/restOfTriangle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 17.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we need to compensate for where the sprite's origin is located.  It is located at *(32, 32)* which is half the `sprite_get_width(spr_circle)`.  So we can adjust **x** to be `32`.
+
+![Adjust for half a sprite width and height](images/MoveXByHalfSprite.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
