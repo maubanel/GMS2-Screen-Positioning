@@ -188,7 +188,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. I
 
 Lets do the same thing with **obj_square**.  Let's start by clicking on **Variable Definitions**  and press <kbd>Add</kbd> button. Name the variable `line_height` and set the **Default** value to `22` with a type of `Integer`.
 
-![alt_text](images/.png)
+![Add line_height set to 22 to obj_square game object](images/AddSpriteHeightToSquare.gif)
 
 
 ___
