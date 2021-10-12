@@ -178,7 +178,9 @@ What if down the road I wanted to make a change and have the sprite be **32 x 32
 
 ##### `Step 20.`\|`MTP`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. It should look identical as we just converted that real number into a variable.
+
+![Run game with variable offset and result should be the same](images/triangleCorrect.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
