@@ -182,7 +182,9 @@ Go back to **obj_circle** and adjust its **Create** script by subtracting `sprit
 
 ##### `Step 21.`\|`MTP`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now all the sprites are positioned properly!
+
+![All three objects positioned correctly](images/Final3Shapes.gif)
 
 ___
 
