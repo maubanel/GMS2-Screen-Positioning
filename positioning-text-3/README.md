@@ -1,6 +1,6 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Screen Positioning II
+### Screen Positioning III
 
 <sub>[previous](../positioning-text-1/README.md#user-content-screen-positioning-i) • [home](../README.md#user-content-gms2-screen-positioning) • [next](../)</sub>
 
