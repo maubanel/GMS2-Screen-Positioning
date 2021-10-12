@@ -92,7 +92,9 @@ Lets rotate the triangle clockwise so we will subtract by 5 each frame. So it st
 
 ##### `Step 10.`\|`MTP`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Notice that the triangle rotates on the axis whose origin is centered horizontally and vertically wihin the sprite:
+
+![Triangle rotates clockwise around its middle center origin](images/RotatingTriangle1.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
