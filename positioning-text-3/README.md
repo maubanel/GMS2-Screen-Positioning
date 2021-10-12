@@ -14,7 +14,9 @@ Lets take a closer look at how we position text, objects and other items on scre
 
 ##### `Step 1.`\|`MTP`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Press the <kbd>Add Event</kbd> button and select a **Create** event.
+
+![Add Create event to obj_square](images/AddCreateEventToSquare.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
