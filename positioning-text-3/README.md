@@ -134,7 +134,9 @@ We need to position it in the center at the right far end corner.  Now we need t
 
 ##### `Step 15.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Where is the far right side of the room?  We can open up our current room and look to see what the width is.  It is set to 1024.  We could use this number but it would be hard coding the value.  We might want to adjust the room size when we are making changes later on.  There is a variable called `room_width` that holds this value.
+
+![Show room setting that shows values for height and width](images/RoomWidthSize.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
