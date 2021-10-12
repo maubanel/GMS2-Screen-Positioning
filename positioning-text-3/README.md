@@ -2,7 +2,7 @@
 
 ### Screen Positioning II
 
-<sub>[previous](../positioning-text-1/README.md#user-content-screen-positioning-i) • [home](../README.md#user-content-gms2-screen-positioning) • [next](../positioning-text-1/README.md#user-content-screen-positioning-iii)</sub>
+<sub>[previous](../positioning-text-1/README.md#user-content-screen-positioning-i) • [home](../README.md#user-content-gms2-screen-positioning) • [next](../)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -200,6 +200,6 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-|[previous](../positioning-text-1/README.md#user-content-screen-positioning-i)| [home](../README.md#user-content-gms2-screen-positioning) | [next](../positioning-text-1/README.md#user-content-screen-positioning-iii)|
+|[previous](../positioning-text-1/README.md#user-content-screen-positioning-i)| [home](../README.md#user-content-gms2-screen-positioning) | [next](../)|
 |---|---|---|
 
