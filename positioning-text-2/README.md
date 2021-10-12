@@ -170,7 +170,9 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 ##### `Step 19.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+What if down the road I wanted to make a change and have the sprite be **32 x 32** pixels.  Then I would have to change this value.  There is a way to not hard code this value and have it change with the <a href="gms2tutorials:///ShowHelp?tag=sprite_get_width">**[sprite_get_width](https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Asset_Management/Sprites/Sprite_Information/sprite_get_width.htm)**.
+
+![Turn this offset into a variable](images/UseVariableForXPosition.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
