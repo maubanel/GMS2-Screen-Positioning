@@ -200,6 +200,6 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-|[previous](../positioning-text-1/README.md#user-content-screen-positioning-i)| [home](../README.md#user-content-gms2-screen-positioning) | [next](../positioning-text-1/README.md#user-content-screen-positioning-iii)|
+|[previous](../positioning-text-1/README.md#user-content-screen-positioning-i)| [home](../README.md#user-content-gms2-screen-positioning) | [next](../positioning-text-3/README.md#user-content-screen-positioning-iii)|
 |---|---|---|
 
