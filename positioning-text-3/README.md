@@ -100,14 +100,18 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 ##### `Step 11.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets go back and fix the origin on the square so it is positioned in the center and rotates in the middle of the sprite.  Open spr_square and click on the drop down menu that says Top Left.  Select Middle Center instead.  Look at the target reticule update automatically:
+
+![Adjust origin of obj_square to middle center](images/CenterOriginOnSquare.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Notice that the square is now centered vertically and rotates on its center.
+
+![Run game and square is centered and rotates correctly on its middle center](images/RotatingSquareCentered.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
