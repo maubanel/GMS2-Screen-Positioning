@@ -162,7 +162,9 @@ Now we need to compensate for where the sprite's origin is located.  It is locat
 
 ##### `Step 18.`\|`MTP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now the triangle should be properly placed both horizontally and vertically.
+
+![Run game and triangle is now properly centered](images/triangleCorrect.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
