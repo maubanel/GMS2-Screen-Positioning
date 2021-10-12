@@ -152,7 +152,7 @@ Ok, lets set the y on the y-axis to the 6th line and set the x to room_width.  T
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Woops we have a major problem.  It looks like there is nothing in the room.  We do not see the circle at all.  Now that does not mean it is not in the game, it just means that it is not in the room.  In fact, it is one pixel outside the room on the right.  Since we have put it on the very right hand side of the room and its origin is on its left side it is just outside the room.  In the image below the dotted circle represents the approximate position of this sprite that we can't see. Woops we have a major problem.  It looks like there is nothing in the room.  We do not see the circle at all.  Now that does not mean it is not in the game, it just means that it is not in the room.  In fact, it is one pixel outside the room on the right.  Since we have put it on the very right hand side of the room and its origin is on its left side it is just outside the room.  In the image below the dotted circle represents the approximate position of this sprite that we can't see.
 
-![alt_text](images/.png)
+![circle out of room](images/CircleOutOfRoom.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
