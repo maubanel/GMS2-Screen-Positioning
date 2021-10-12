@@ -60,7 +60,9 @@ To rotate the player there is a variable that is used to determine the angle the
 
 ##### `Step 6.`\|`MTP`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+We will start by rotating counter-clockwise.  We will add 5 degrees every frame.  The level defaults to 30 frames a second so it will be rotating 5 * 30 = 150 degrees per second. To alter the `image_angle` variable we will add 5 degrees to itself.  So it starts at 0, goes to 5 in the second frame, 10 in the third frame, 15 in the fourth frame etc...
+
+![Add 5 degrees per frame to image_angle in step event](images/RotateSquareStep.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
