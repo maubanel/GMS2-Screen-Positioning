@@ -115,15 +115,20 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 13.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`MTP`| :large_blue_diamo
+nd: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets get the circle positioned properly.  Add a **Variable Definition** to `obj_circle` called `line_height` and set it to `22` with a **Type** of `Integer`.
+
+![Add a line_height variable set to 22 to obj_circle](images/AddLineHeightToCircle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 14.`\|`MTP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+We need to position it in the center at the right far end corner.  Now we need to add a **Create** event to `obj_circle`.
+
+![Add Create event to obj_circle](images/AddCreateEventToCircle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
