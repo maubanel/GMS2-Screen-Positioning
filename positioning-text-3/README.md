@@ -144,7 +144,7 @@ Where is the far right side of the room?  We can open up our current room and lo
 
 Ok, lets set the y on the y-axis to the 6th line and set the x to room_width.  Type the below script in obj_circle: Create event.
 
-![put circle on end of line](images/circleCreate.png)
+![put circle on end of line](images/ circleCreate.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
