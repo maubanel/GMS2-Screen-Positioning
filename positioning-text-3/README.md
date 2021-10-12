@@ -49,17 +49,18 @@ We will be using a different event type to rotate the object.  Since this is not
 
 ##### `Step 5.`\|`MTP`| :small_orange_diamond:
 
-![alt_text](images/.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 6.`\|`MTP`| :small_orange_diamond: :small_blue_diamond:
-
 To rotate the player there is a variable that is used to determine the angle the player is facing at.  The variable is called **[image_angle](https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Asset_Management/Sprites/Sprite_Instance_Variables/image_angle.htm)**.
 
 `image_angle` is set by changing its angle in degrees.	To rotate counter-clockwise we add degrees *positively* then we rotate clockwise by *subtracting* degrees.  You can see below that a round trip is 360 degrees.
 
 ![Illustration of 360 degrees representing rotation in gamemaker](images/RotationsUsingImageAngle.png)
+
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 6.`\|`MTP`| :small_orange_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
