@@ -156,7 +156,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 Now we need to compensate for where the sprite's origin is located.  It is located at *(32, 32)* which is half the `sprite_get_width(spr_circle)`.  So we can adjust **x** to be `32`.
 
-![Adjust for half a sprite width and height](images/MoveXByHalfSprite.png)
+![Adjust for half a sprite width and height](images/MoveXByHalfSprite2.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
